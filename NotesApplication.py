@@ -14,6 +14,8 @@ class NotesApplication(object):
 			print ("By Author: " + self.author)
 
 	def get(self, note_id):
+		if note_id < 0 and  note_id >=len(self.notes):
+			print "Error: Note ID out of range."
 		return self.notes[note_id]
 
 	def search(self, search_text):
@@ -28,6 +30,7 @@ class NotesApplication(object):
 
 	def edit(self, note_id, new_content):
 		self.notes[note_id] = new_content
+	
 
 
 App = NotesApplication("Victor")
