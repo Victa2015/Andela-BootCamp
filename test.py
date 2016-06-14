@@ -1,1 +1,1 @@
-print "Git first ..."
+print "Hello, World"
