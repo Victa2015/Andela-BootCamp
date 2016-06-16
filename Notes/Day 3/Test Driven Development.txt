@@ -1,0 +1,14 @@
+
+Write the Test
+Run the Test, This will obviously fail because the code does not exist.
+Write the code,
+Run the test again,
+Repeat.
+
+This is how you know that your code is working.
+
+
+RED GREEN REFRACTOR.
+
+
+
