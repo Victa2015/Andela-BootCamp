@@ -9,5 +9,5 @@ def fizz_buzz(n):
 
 	elif n % 3 ==0:
 		return 'Fizz'
-	elif n % 6 ==0:
+	elif n % 5 ==0:
 		return 'buzz'
