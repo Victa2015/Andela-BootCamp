@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+Abu Dhabi
+=======
+Andrew Changed
+>>>>>>> Victor
+Carol
+Denmark
+Andela
+Alex
+Michael
+David
